@@ -65,6 +65,7 @@ db.users.insertMany([
       ]
     },
 
+    // Admin and Cashier users
     {
       "_id": objectID("6a5439e7de3963c238442292c44bf595"),
       "username": "Admin A",
