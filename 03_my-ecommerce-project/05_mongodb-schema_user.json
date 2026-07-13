@@ -1,0 +1,17 @@
+
+
+
+{
+    "_id": "",
+    "username": "",
+    "email": "",
+    "shopping_cart": [
+        {
+        "product_id": "",
+        "quantity": ""
+
+    }, {}, {}
+
+
+]
+}
