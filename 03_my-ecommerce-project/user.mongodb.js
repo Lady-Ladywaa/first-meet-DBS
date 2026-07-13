@@ -6,7 +6,7 @@ db.users.deleteMany({});
 //Insert mock data for users collection
 db.users.insertMany([
     {
-      "_id": objectID("..."),
+      "_id": objectID("6a5439e71d3bd7ec6e9a69e04feb9016"),
       "username": "LadyFirst",
       "password": "01234",
       "email": "LadyFirst@example.com",
@@ -15,7 +15,7 @@ db.users.insertMany([
       "role": "customer",
       "shopping_cart": [
           {
-            "product_id": objectID("..."),
+            "product_id": objectID("6a5439e751dda74c52c601708e94e122"),
             "product_name": "angel dress",
             "quantity":1,
             "size": "M",
@@ -26,7 +26,7 @@ db.users.insertMany([
     },
 
     {
-      "_id": objectID("..."),
+      "_id": objectID("6a5439e7d9ed02754f5e22a05fede4c5"),
       "username": "Ladybug",
       "password": "45678",
       "email": "Ladybug@example.com",
@@ -35,7 +35,7 @@ db.users.insertMany([
       "role": "customer",
       "shopping_cart": [
           {
-            "product_id": objectID("..."),
+            "product_id": objectID("6a5439e786b087e97fe641b933bbe07f"),
             "product_name": "bilal dress",
             "quantity":1,
             "size": "L",
@@ -46,7 +46,7 @@ db.users.insertMany([
     },
 
     {
-      "_id": objectID("..."),
+      "_id": objectID("6a5439e7f8574dd822b8ad80d521b8a3"),
       "username": "Kitten",
       "password": "45501",
       "email": "Kitten@example.com",
@@ -55,7 +55,7 @@ db.users.insertMany([
       "role": "customer",
       "shopping_cart": [
         {
-          "product_id": objectID("..."),
+          "product_id": objectID("6a5439e75b0eb6ddb9cd2132b3833ab2"),
           "product_name": "hafiz dress",
           "quantity":1,
           "size": "M",
@@ -66,7 +66,7 @@ db.users.insertMany([
     },
 
     {
-      "_id": objectID("..."),
+      "_id": objectID("6a5439e7de3963c238442292c44bf595"),
       "username": "Admin A",
       "password": "00000",
       "email": "AdminA@example.com",
@@ -76,7 +76,7 @@ db.users.insertMany([
     },
 
     {
-      "_id": objectID("..."),
+      "_id": objectID("6a543aef7c087ea804f08766720d7378"),
       "username": "Cashier B",
       "password": "11111",
       "email": "CashierB@example.com",
