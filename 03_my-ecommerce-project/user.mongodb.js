@@ -81,6 +81,6 @@ db.users.insertMany([
       "address": "55 ถนนอะไรดี ตำบลสภาพ จังหวัดสมองบวม 12000"
     },
     
-    db.users.find()
-
 ]);
+
+ db.users.find()
