@@ -29,4 +29,6 @@ db.rentalBookings.insertMany([
 
     }
 
-])
+]);
+
+db.rentalBookings.find()
